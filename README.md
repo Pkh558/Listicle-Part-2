@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a screenshot of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/wFoqLB2.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
