@@ -1,5 +1,7 @@
 import express from 'express'
 
+import './config/dotenv.js'
+
 import tipsRouter from './routes/tips.js'
 
 const app = express()
