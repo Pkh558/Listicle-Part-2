@@ -16,11 +16,13 @@ The following **required** functionality is completed:
   - [x] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 
-## Image Walkthrough
+## Video Walkthrough
 
-Here's a screenshot of implemented required features:
+Here's a GIF of implemented required features:
 
-<img src='https://i.imgur.com/wFoqLB2.png' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![GIF](https://i.imgur.com/DV9cO6z.gif)
+
+GIF created with ...  EzGIF
 
 ## Notes
 
